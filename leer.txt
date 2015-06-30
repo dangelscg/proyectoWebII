@@ -1,0 +1,12 @@
+cada grupo debe subir sus proyectos
+con
+para grupo 1
+git push -u origin grupo1
+para grupo 2
+git push -u origin grupo2
+para grupo 3
+git push -u origin grupo3
+para grupo 4
+git push -u origin grupo4
+para grupo 5
+git push -u origin grupo5
